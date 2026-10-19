@@ -1,4 +1,4 @@
-# Career Compass MVP
+# Career Northstar MVP
 
 A browser-based prototype for a personalized career preparation workspace.
 
